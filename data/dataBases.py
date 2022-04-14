@@ -1,0 +1,3 @@
+urlList = {}
+
+directoryYoutubeManager = 'D:\\'
